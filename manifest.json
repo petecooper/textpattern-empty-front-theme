@@ -1,7 +1,7 @@
 {
     "title": "Blank Scaffold",
     "txp-type": "textpattern-theme",
-    "version": "4.7.0",
+    "version": "4.7.0-dev",
     "description": "Blank front-side theme scaffold for Textpattern CMS.",
     "author": "Pete Cooper",
     "author_uri": "https://github.com/petecooper/textpattern-front-side-theme-scaffold"
